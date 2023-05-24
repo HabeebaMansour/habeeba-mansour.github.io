@@ -8,7 +8,7 @@ draft: false
 project_info:
 - name: "Github Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/HabeebaMansour/visual-affordance"
 ---
 
 Visual Affordance algorithm with labelled data implemented on robot arm to transfer unseen objects from one bin to another.
