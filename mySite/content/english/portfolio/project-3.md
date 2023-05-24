@@ -8,7 +8,7 @@ draft: false
 project_info:
 - name: "Github Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/HabeebaMansour/Robotics_TSDF"
 ---
 
 Implementation of a TSDF fusion loop to integrate RGB-D images from different camera poses into a cohesive, implicit 3-D reconstruction
