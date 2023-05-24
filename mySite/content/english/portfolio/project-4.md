@@ -8,7 +8,7 @@ draft: false
 project_info:
 - name: "Github Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/HabeebaMansour/robot-grasping"
 ---
 
 RRT algorithm implemented for path planning to move the robot from one location to another while avoiding collisions with obstacle.
