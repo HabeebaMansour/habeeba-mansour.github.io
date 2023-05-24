@@ -8,10 +8,10 @@ draft: false
 project_info:
 - name: "Project Website"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://coms-bc3997-sp23.github.io/website-habeeba-mansour/"
 - name: "Github Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/A2R-Lab/TinyRobotsML"
 ---
 
 This project focuses on the ongoing development of a
