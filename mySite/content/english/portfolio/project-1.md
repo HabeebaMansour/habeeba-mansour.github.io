@@ -11,7 +11,7 @@ project_info:
   content: "https://examplesite.com/"
 ---
 
-Game of Thrones themed Sokoban game. 
+Game of Thrones themed Sokoban game. Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.
 
 
 #### Project Details
