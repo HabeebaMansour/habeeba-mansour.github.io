@@ -8,7 +8,7 @@ draft: false
 project_info:
 - name: "Github Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/tzhou19/AML_project"
 ---
 
 Patient survival prediction model trained using MIT’s GOSSIS (Global Open Source Severity of Illness Score) dataset. This dataset includes a number of factors collected from admitted patients, including whether the patient died during hospitalization. This dataset was leveraged in order to characterize the predictors for in-hospital mortality through the creation of models using a variety of machine learning techniques. We also compared these models and identified which technique is most suitable for this classification task.
