@@ -8,7 +8,7 @@ draft: false
 project_info:
 - name: "Project Github"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/ahmedashrafy/GameofCodes"
 ---
 
 Game of Thrones themed Sokoban game. Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.
