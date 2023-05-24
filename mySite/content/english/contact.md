@@ -2,7 +2,6 @@
 title : "SAY HELLO!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "https://formspree.io/f/xgebbkav" # works with https://formspree
-method="POST"
 name: "Name"
 email: "Email"
 message: "Message"
