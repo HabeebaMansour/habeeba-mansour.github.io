@@ -18,9 +18,7 @@ Game of Thrones themed Sokoban game. Sokoban is a puzzle video game in which the
 
 Developed Sokoban game using SFML library in C++. The theme of the game was Game of Thrones. Characters available for selection included Arya, Jaime, or Jon. Each character had an associated background including Bravos, Kings Landing, and North of the wallm respectively. Each character had animations to show leg movement across the board. Players could also opt for a hint if they were stuck on a level. Besides the preset levels, players could also choose to play a random level. 
 
-{% include embed.html url="https://www.youtube.com/embed/nKSTHz0RWK8" %}
-
-<figure class="video_container">
+<figure class="video_container" width="320" height="240">
   <iframe src="https://www.youtube.com/embed/nKSTHz0RWK8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
