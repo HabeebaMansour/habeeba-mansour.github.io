@@ -20,3 +20,7 @@ Developed Sokoban game using SFML library in C++. The theme of the game was Game
 
 {% include embed.html url="https://www.youtube.com/embed/nKSTHz0RWK8" %}
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/nKSTHz0RWK8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
