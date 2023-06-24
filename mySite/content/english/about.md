@@ -16,7 +16,7 @@ experience:
     - name : "B.A. in Computer Science and Chemistry"
       company : "Barnard College of Columbia University in the City of New York"
       duration : "2020-2023"
-      content : "GPA 3.95/4.0"
+      content : "GPA 3.95/4.0 cum laude"
       
     # experience item loop
     - name : "Research Assistant"
