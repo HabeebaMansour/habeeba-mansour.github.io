@@ -1,5 +1,5 @@
 ---
-title : "SAY HELLO!"
+title : "CONTACT ME!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "https://formspree.io/f/xgebbkav" # works with https://formspree
 name: "Name"
