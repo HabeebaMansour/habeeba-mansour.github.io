@@ -43,5 +43,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Habeeba, a sofware developer and chemist. I'm from Cairo, Egypt. I love reading and travelling. I'm very passionate about coding and chemistry. I love challaning work problem solving. Due to my diverse background I love integrating my passions together. 
+I'm Habeeba, a sofware developer and chemist. I'm from Cairo, Egypt. I love reading and travelling. I'm very passionate about coding and chemistry. I love challenging work and problem solving. Due to my diverse background I love integrating my passions together. 
 
