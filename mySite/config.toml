@@ -81,6 +81,9 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 icon = "fab fa-github"
 link = "https://github.com/HabeebaMansour"
 
+[[params.social]]
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/habeeba-mansour/"
 
 ################################### English language #####################################
 [Languages.en]
