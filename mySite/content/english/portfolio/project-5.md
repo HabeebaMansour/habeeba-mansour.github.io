@@ -17,3 +17,7 @@ Visual Affordance algorithm with labelled data implemented on robot arm to trans
 #### Project Details
 
 Generated training dataset by labelling 5 training objects with 12 attempts each. To implement Visual Affordance the MiniUNet architecture is used. The gaussian score map used allows this model to perform well on unseen objects. The test time performance is also improved upon by picking a different pixel if the initial attempt is unsuccessful by suppressing the initial pixel and surrounding pixels. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/XO24pv2K76U" frameborder="0" allowfullscreen="true" width="730" height="440"> </iframe>
+</figure>
