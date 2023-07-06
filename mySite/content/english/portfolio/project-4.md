@@ -24,3 +24,6 @@ The pipeline for the project is as follows:
 * grasp object
 * transfer to other bin using RRT while avoiding collisions
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=En-7Xk0g7kk" frameborder="0" allowfullscreen="true" width="730" height="440"> </iframe>
+</figure>
