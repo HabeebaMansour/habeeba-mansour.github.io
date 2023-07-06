@@ -1,5 +1,5 @@
 ---
-title: "UR5 Robot Grasp Pipeline"
+title: "Robot Grasp Pipeline"
 date: 2023-04-26T12:14:34+06:00
 image: "images/portfolio/Robotics2.png"
 categories: ["robotics", "machine learning", "GCP"]
