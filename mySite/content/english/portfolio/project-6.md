@@ -27,6 +27,9 @@ This projects uses Isaac Sim as method for applying reinforcement learning to qu
 * Deep Deterministic Policy Gradient (DDPG)
 * Trust Region Policy Optimization (TRPO)
 
-This is an especially applicable took in robot learning, an area that is at the intersection of ML and robotics. 
+This is an especially applicable tool in robot learning, an area that is at the intersection of ML and robotics. 
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/FeY6DwH4gxs" frameborder="0" allowfullscreen="true" width="730" height="440"> </iframe>
+</figure>
 
