@@ -1,5 +1,5 @@
 ---
-title: "Robot Grasp Pipeline"
+title: "Grasp Pipeline"
 date: 2023-04-26T12:14:34+06:00
 image: "images/portfolio/Robotics2.png"
 categories: ["robotics", "machine learning", "GCP"]
